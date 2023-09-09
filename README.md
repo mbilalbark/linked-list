@@ -46,7 +46,7 @@ Windows: Visual Studio 2015+
 #### Remove by index
 ```
     int indexCount = 1;
-    newList.Remove(indexCount);
+    newList.RemoveIndex(indexCount);
 ```
 ### Note
 
